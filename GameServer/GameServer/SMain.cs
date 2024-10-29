@@ -3042,7 +3042,7 @@ public partial class SMain : Form
     {
         FolderBrowserDialog folderBrowserDialog = new FolderBrowserDialog
         {
-            Description = "请选择文件夹"
+            Description = "Please select a folder"
         };
         if (folderBrowserDialog.ShowDialog() == DialogResult.OK && sender == S_浏览平台目录)
         {
