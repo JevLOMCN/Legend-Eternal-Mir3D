@@ -1,4 +1,4 @@
-# Conquer - Official Public HC Source
+# Legend Eternal - Official Public HC Source
 
 [Latest Build](https://github.com/damianday/Conquer/tree/main/Release)
 
