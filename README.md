@@ -76,7 +76,7 @@ To publish on the internet, you must open ports 7000 and 8701 on your router
 
 ### Network Communication Diagram
 
-![Mir Network](https://www.mirfiles.com/resources/mir2/users/Jev/Mir%203DEMU/mir-network.png)
+![mir-network](https://github.com/user-attachments/assets/044113df-f8c5-402e-9271-c36db0f28cfd)
 
 # Useful Links:
 
