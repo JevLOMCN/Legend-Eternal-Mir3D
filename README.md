@@ -1,4 +1,4 @@
-# Legend Eternal - Official Public HC Source
+# Legend Eternal (Shanda Games) - Official Public HC Source
 
 [Latest Build](https://github.com/damianday/Conquer/tree/main/Release)
 
