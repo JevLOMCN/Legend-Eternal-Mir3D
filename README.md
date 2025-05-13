@@ -3,6 +3,8 @@
 [Latest Build](https://github.com/damianday/Conquer/tree/main/Release)
 
 [Discord](https://discord.gg/R8BgxJ7H)
+  
+---
 
 ## How to start
 
@@ -21,6 +23,8 @@ In launcher there is a configuration file called "!Settings.txt". In this file w
 
 If it is locally: `127.0.0.1:`
 If it is WAN: `<public_ip>`
+  
+---
 
 ### Account Server Configuration
 
@@ -65,6 +69,8 @@ We will have to create a file in the root of the account server called "!ServerI
 ]
 
   </details>
+  
+---
 
 ### Game Server Configuration
 
@@ -77,6 +83,8 @@ To publish on the internet, you must open ports 7000 and 8701 on your router
 ### Network Communication Diagram
 
 ![mir-network](https://github.com/user-attachments/assets/044113df-f8c5-402e-9271-c36db0f28cfd)
+  
+---
 
 # Useful Links:
 
@@ -94,13 +102,14 @@ To publish on the internet, you must open ports 7000 and 8701 on your router
 * Damian (CodePwr)
 * Jev
 * mir2pion
+  
+---
 
 # Other Projects:
 
-> [Mir 1](https://github.com/JevLOMCN/mir1/) | [Database](https://github.com/Suprcode/Carbon.Database)
-> 
-> [Mir 2](https://github.com/Suprcode/Crystal) | [Database](https://github.com/Suprcode/Crystal.Database) | [Map Editor](https://github.com/Suprcode/Crystal.MapEditor)
-> 
-> [Mir 3](https://github.com/Suprcode/Zircon)
-> 
-> [Mir 4](https://github.com/JevLOMCN/Topaz/)
+- <img src="https://github.com/JevLOMCN/mir4Tools/icons/mir1.png" alt="Mir1" width="20"/> [Mir 1](https://github.com/JevLOMCN/mir1/) | [Database](https://github.com/Suprcode/Carbon.Database) - Remake of ActozSoft's 1997 _The Legend Of Mir 1_
+- <img src="https://github.com/JevLOMCN/mir4Tools/icons/mir2.png" alt="Mir2" width="20"/> [Mir 2](https://github.com/Suprcode/Crystal) | [Database](https://github.com/Suprcode/Crystal.Database) | [Map Editor](https://github.com/Suprcode/Crystal.MapEditor) - Remake of Wemade Entertainment's 1999 _The Legend Of Mir 2_
+- <img src="https://github.com/JevLOMCN/mir4Tools/icons/mir3.png" alt="Mir3" width="20"/> [Mir 3](https://github.com/Suprcode/Zircon) - Remake of Wemade Entertainment's 2003 _The Legend Of Mir 3_
+- <img src="https://github.com/JevLOMCN/mir4Tools/icons/woool.png" alt="WoOOL" width="20"/> [WoOOL](https://www.lomcn.net/forum/forums/woool-development-project-onyx.857/) - Remake of Shanda Games' (now Shengqu Games) 2003 _The World Of Legend_
+- <img src="https://github.com/JevLOMCN/mir4Tools/icons/mir3d.png" alt="Mir3D" width="20"/> [Mir 3D (Moon Spirit)](https://github.com/mir-ethernity/mir-eternal) | [Mir 3D (Holy Cow)](https://github.com/JevLOMCN/Legend-Eternal-Mir3D) - Remake of Shanda Games' (now Shengqu Games) 2016 _Legend Eternal_
+- <img src="https://github.com/JevLOMCN/mir4Tools/icons/mir4.png" alt="Mir4" width="20"/> [Mir 4](https://github.com/JevLOMCN/mir4) - Remake of Wemade Entertainment's 2021 _The Legend Of Mir 4_
